@@ -36,13 +36,19 @@ vue ui
 * Nome do país exibido em português pt-br;
 * Campos de preenchimento organizados por ordem alfabética ou crescente.
 
-## Telas:
-
-Inline-style: 
-![alt text](https://raw.githubusercontent.com/Zamariolo/Mova-Aplicativo-Paises/main/Prints%20Github/desktop1.png "Desktop1")
-
-
-
 # Contato
 
 * 💌: viniciuszamariola@gmail.com 
+
+=)
+
+## Telas:
+
+Desktop:
+![alt text](https://raw.githubusercontent.com/Zamariolo/Mova-Aplicativo-Paises/main/Prints%20Github/desktop1.png "Desktop1")
+![alt text](https://raw.githubusercontent.com/Zamariolo/Mova-Aplicativo-Paises/main/Prints%20Github/desktop2.png "Desktop2")
+
+Mobile:
+![alt text](https://raw.githubusercontent.com/Zamariolo/Mova-Aplicativo-Paises/main/Prints%20Github/mobile1.png "Mobile1")
+![alt text](https://raw.githubusercontent.com/Zamariolo/Mova-Aplicativo-Paises/main/Prints%20Github/mobile2.png "Mobile2")
+
